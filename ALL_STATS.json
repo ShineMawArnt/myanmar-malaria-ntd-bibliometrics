@@ -1,0 +1,845 @@
+{
+  "n_after_scope_verification": 1220,
+  "excluded_nonresearch": 2,
+  "excluded_preprint": 3,
+  "excluded_titles": [
+    {
+      "title": "Malaria care-seeking among febrile patients in Myanmar and Thailand: an accelerated failure time analysis",
+      "journal": "Res Sq",
+      "year": 2025
+    },
+    {
+      "title": "Responding to AIDS, tuberculosis, malaria, and emerging infectious diseases in Burma: dilemmas of policy and practice",
+      "journal": "PLoS Med",
+      "year": 2006
+    },
+    {
+      "title": "Malaria parasite population genomics during an elimination program in Eastern Myanmar",
+      "journal": "bioRxiv",
+      "year": 2025
+    },
+    {
+      "title": "Impact of intensive control on malaria population genomics in Eastern Myanmar",
+      "journal": "Res Sq",
+      "year": 2025
+    },
+    {
+      "title": "Long-Lasting Insecticidal Nets for Malaria Control in Myanmar and Nigeria: Lessons From the Past, Tools for the Future",
+      "journal": "Glob Health Sci Pract",
+      "year": 2018
+    }
+  ],
+  "n_final": 1215,
+  "n_by_source": {
+    "Scopus": 1191,
+    "PubMed": 24
+  },
+  "n_cjk_or_bracketed_titles": 39,
+  "completeness": {
+    "abstract": 1215,
+    "author_keywords": 847,
+    "affiliations": 1207,
+    "funding_details": 848,
+    "funding_details_real": 840
+  },
+  "completeness_pct": {
+    "abstract": 100.0,
+    "author_keywords": 69.7,
+    "affiliations": 99.3,
+    "funding_details": 69.1
+  },
+  "annual": {
+    "2000": 4,
+    "2001": 6,
+    "2002": 9,
+    "2003": 7,
+    "2004": 15,
+    "2005": 24,
+    "2006": 18,
+    "2007": 16,
+    "2008": 20,
+    "2009": 20,
+    "2010": 38,
+    "2011": 26,
+    "2012": 33,
+    "2013": 41,
+    "2014": 50,
+    "2015": 66,
+    "2016": 83,
+    "2017": 86,
+    "2018": 91,
+    "2019": 81,
+    "2020": 87,
+    "2021": 98,
+    "2022": 71,
+    "2023": 61,
+    "2024": 56,
+    "2025": 70,
+    "2026": 38
+  },
+  "peak_year": 2021,
+  "peak_n": 98,
+  "n_2000_2009": 139,
+  "n_2010_2014": 188,
+  "n_2015_2019": 407,
+  "n_2020_2026": 481,
+  "n_2015_2025": 850,
+  "cagr_2001_2024_3yr_means": 10.5,
+  "mean_per_year_2015_2025": 77.3,
+  "min_2015_2025": 56,
+  "max_2015_2025": 98,
+  "n_journals": 266,
+  "top_journals": [
+    [
+      "Malaria Journal",
+      231
+    ],
+    [
+      "American Journal of Tropical Medicine and Hygiene",
+      68
+    ],
+    [
+      "PLoS ONE",
+      58
+    ],
+    [
+      "Parasites and Vectors",
+      42
+    ],
+    [
+      "PLoS Neglected Tropical Diseases",
+      38
+    ],
+    [
+      "Infectious Diseases of Poverty",
+      31
+    ],
+    [
+      "Acta Tropica",
+      28
+    ],
+    [
+      "Antimicrobial Agents and Chemotherapy",
+      24
+    ],
+    [
+      "Infection, Genetics and Evolution",
+      21
+    ],
+    [
+      "Tropical Medicine and Health",
+      20
+    ],
+    [
+      "Wellcome Open Research",
+      20
+    ],
+    [
+      "China Tropical Medicine",
+      17
+    ],
+    [
+      "BMC Infectious Diseases",
+      17
+    ],
+    [
+      "Tropical Medicine and Infectious Disease",
+      16
+    ],
+    [
+      "Emerging Infectious Diseases",
+      16
+    ]
+  ],
+  "malaria_journal_pct": 19.0,
+  "bradford": {
+    "zone1_journals": 5,
+    "zone1_docs": 437,
+    "zone2_journals": 23,
+    "zone2_docs": 374,
+    "zone3_journals": 238,
+    "zone3_docs": 404,
+    "zone1_pct_docs": 36.0,
+    "journals_with_1_doc": 154
+  },
+  "authors_pre": 5721,
+  "authors_post": 5325,
+  "merge_groups": 321,
+  "top_authors": [
+    [
+      "Nosten, Fran\u00e7ois",
+      192
+    ],
+    [
+      "Cui, Liwang",
+      120
+    ],
+    [
+      "White, Nicholas J.",
+      101
+    ],
+    [
+      "McGready, Rose",
+      76
+    ],
+    [
+      "Yang, Zhaoqing",
+      65
+    ],
+    [
+      "Imwong, Mallika",
+      59
+    ],
+    [
+      "Day, Nicholas P. J.",
+      58
+    ],
+    [
+      "Kyaw, Myat Phone",
+      55
+    ],
+    [
+      "Parker, Daniel M.",
+      53
+    ],
+    [
+      "Sattabongkot, Jetsumon",
+      50
+    ],
+    [
+      "Ashley, Elizabeth A.",
+      46
+    ],
+    [
+      "Dondorp, Arjen M.",
+      45
+    ],
+    [
+      "Thi, Aung",
+      44
+    ],
+    [
+      "Smithuis, Frank",
+      43
+    ],
+    [
+      "Proux, Stephane",
+      39
+    ]
+  ],
+  "lotka": {
+    "single_pub": 3726,
+    "single_pub_pct": 70.0,
+    "two_pub_pct": 14.0,
+    "ge10": 154,
+    "exponent_ols": 1.79,
+    "r2": 0.878,
+    "pre_single_pub_pct": 72.1
+  },
+  "collab": {
+    "single_authored": 39,
+    "single_pct": 3.2,
+    "mean_authors": 9.62,
+    "median_authors": 8.0,
+    "max_authors": 89,
+    "collaboration_index": 9.91,
+    "ge10_authors_pct": 40.6,
+    "gt25_authors": 27
+  },
+  "n_countries": 93,
+  "top_countries": [
+    [
+      "Thailand",
+      548
+    ],
+    [
+      "Myanmar",
+      360
+    ],
+    [
+      "United States",
+      353
+    ],
+    [
+      "United Kingdom",
+      333
+    ],
+    [
+      "China",
+      333
+    ],
+    [
+      "Australia",
+      132
+    ],
+    [
+      "Japan",
+      98
+    ],
+    [
+      "France",
+      83
+    ],
+    [
+      "India",
+      65
+    ],
+    [
+      "Switzerland",
+      59
+    ],
+    [
+      "Laos",
+      56
+    ],
+    [
+      "South Korea",
+      51
+    ],
+    [
+      "Cambodia",
+      46
+    ],
+    [
+      "Netherlands",
+      43
+    ],
+    [
+      "Vietnam",
+      40
+    ],
+    [
+      "Bangladesh",
+      37
+    ],
+    [
+      "Indonesia",
+      26
+    ],
+    [
+      "Singapore",
+      24
+    ],
+    [
+      "Germany",
+      20
+    ],
+    [
+      "Sweden",
+      19
+    ]
+  ],
+  "top_institutions": [
+    [
+      "Mahidol University",
+      374
+    ],
+    [
+      "University of Oxford",
+      236
+    ],
+    [
+      "Shoklo Malaria Research Unit",
+      211
+    ],
+    [
+      "Mahidol-Oxford Tropical Medicine Research Unit",
+      181
+    ],
+    [
+      "Centre for Tropical Medicine and Global Health (Oxford)",
+      169
+    ],
+    [
+      "Department of Medical Research (Myanmar)",
+      156
+    ],
+    [
+      "University of California",
+      107
+    ],
+    [
+      "Yunnan Institute of Parasitic Diseases",
+      90
+    ],
+    [
+      "National Institute of Parasitic Diseases (China CDC)",
+      79
+    ],
+    [
+      "Kunming Medical University",
+      78
+    ],
+    [
+      "Pennsylvania State University",
+      63
+    ],
+    [
+      "Thammasat University",
+      53
+    ],
+    [
+      "Chinese Academy of ",
+      42
+    ],
+    [
+      "University of Yangon / Univ. of Medicine (Myanmar)",
+      32
+    ],
+    [
+      "London School of Hygiene & Tropical Medicine",
+      30
+    ]
+  ],
+  "n_with_funding": 840,
+  "funding_pct": 69.1,
+  "top_funders": [
+    [
+      "Wellcome Trust",
+      166
+    ],
+    [
+      "National Institute of Allergy and Infectious Diseases (NIAID)",
+      147
+    ],
+    [
+      "National Institutes of Health (NIH, US)",
+      142
+    ],
+    [
+      "Bill & Melinda Gates Foundation",
+      115
+    ],
+    [
+      "National Natural Science Foundation of China",
+      99
+    ],
+    [
+      "Mahidol University",
+      74
+    ],
+    [
+      "National Health and Medical Research Council (Australia)",
+      48
+    ],
+    [
+      "World Health Organization",
+      30
+    ],
+    [
+      "National Research Council of Thailand",
+      29
+    ],
+    [
+      "Department for International Development (DFID, UK)",
+      27
+    ],
+    [
+      "National Research Foundation of Korea",
+      24
+    ],
+    [
+      "Global Fund",
+      21
+    ],
+    [
+      "Japan Society for the Promotion of Science",
+      21
+    ],
+    [
+      "Fogarty International Center",
+      19
+    ],
+    [
+      "Japan Agency for Medical Research and Development",
+      17
+    ]
+  ],
+  "n_scopus_for_citations": 1191,
+  "citations": {
+    "total": 35702,
+    "mean": 30.0,
+    "median": 14.0,
+    "zero_cited": 85,
+    "zero_pct": 7.1,
+    "h_index": 77,
+    "mean_cpy": 2.82,
+    "median_cpy": 1.76,
+    "pre2015_cpy": 3.82,
+    "post2020_cpy": 1.98
+  },
+  "top_cited": [
+    {
+      "title": "Spread of artemisinin resistance in Plasmodium falciparum malaria",
+      "year": 2014,
+      "journal_n": "New England Journal of Medicine",
+      "cited_by": 1835
+    },
+    {
+      "title": "Artesunate versus quinine for treatment of severe falciparum malaria: A randomised trial",
+      "year": 2005,
+      "journal_n": "Lancet",
+      "cited_by": 819
+    },
+    {
+      "title": "Emergence of artemisinin-resistant malaria on the western border of Thailand: A longitudinal study",
+      "year": 2012,
+      "journal_n": "The Lancet",
+      "cited_by": 778
+    },
+    {
+      "title": "A worldwide map of Plasmodium falciparum K13-propeller polymorphisms",
+      "year": 2016,
+      "journal_n": "New England Journal of Medicine",
+      "cited_by": 459
+    },
+    {
+      "title": "A Long Neglected World Malaria Map: Plasmodium vivax Endemicity in 2010",
+      "year": 2012,
+      "journal_n": "PLoS Neglected Tropical Diseases",
+      "cited_by": 445
+    },
+    {
+      "title": "The spread of artemisinin-resistant Plasmodium falciparum in the Greater Mekong subregion: a molecular epidemiology observational study",
+      "year": 2017,
+      "journal_n": "The Lancet Infectious Diseases",
+      "cited_by": 391
+    },
+    {
+      "title": "Economic and Disease Burden of Dengue in Southeast Asia",
+      "year": 2013,
+      "journal_n": "PLoS Neglected Tropical Diseases",
+      "cited_by": 386
+    },
+    {
+      "title": "Estimation of the total parasite biomass in acute falciparum malaria from plasma PfHRP2",
+      "year": 2005,
+      "journal_n": "PLoS Medicine",
+      "cited_by": 379
+    },
+    {
+      "title": "Independent emergence of artemisinin resistance mutations among Plasmodium falciparum in Southeast Asia",
+      "year": 2015,
+      "journal_n": "Journal of Infectious Diseases",
+      "cited_by": 360
+    },
+    {
+      "title": "Spread of artemisinin-resistant Plasmodium falciparum in Myanmar: A cross-sectional survey of the K13 molecular marker",
+      "year": 2015,
+      "journal_n": "The Lancet Infectious Diseases",
+      "cited_by": 360
+    },
+    {
+      "title": "Two nonrecombining sympatric forms of the human malaria parasite plasmodium ovale occur globally",
+      "year": 2010,
+      "journal_n": "Journal of Infectious Diseases",
+      "cited_by": 326
+    },
+    {
+      "title": "Estimating the global clinical burden of plasmodium falciparum malaria in 2007",
+      "year": 2010,
+      "journal_n": "PLoS Medicine",
+      "cited_by": 290
+    },
+    {
+      "title": "A selective sweep driven by pyrimethamine treatment in Southeast Asian malaria parasites",
+      "year": 2003,
+      "journal_n": "Molecular Biology and Evolution",
+      "cited_by": 271
+    },
+    {
+      "title": "Relapses of Plasmodium vivax infection usually result from activation of heterologous hypnozoites",
+      "year": 2007,
+      "journal_n": "Journal of Infectious Diseases",
+      "cited_by": 264
+    },
+    {
+      "title": "Genetic loci associated with delayed clearance of plasmodium falciparum following artemisinin",
+      "year": 2013,
+      "journal_n": "Proceedings of the National Academy of Sciences of the United States of America",
+      "cited_by": 240
+    }
+  ],
+  "citation_histogram": {
+    "0": 85,
+    "1-4": 206,
+    "5-9": 168,
+    "10-19": 256,
+    "20-49": 309,
+    "50-99": 113,
+    "100-249": 40,
+    "250-499": 11,
+    "500-999": 2,
+    "1000+": 1
+  },
+  "stratification": {
+    "Malaria only": 879,
+    "NTD only": 303,
+    "Both": 31,
+    "Unclassified": 2
+  },
+  "stratification_pct": {
+    "Malaria only": 72.3,
+    "NTD only": 24.9,
+    "Both": 2.6,
+    "Unclassified": 0.2
+  },
+  "tab2": {
+    "Malaria only": {
+      "n": 879,
+      "pct": 72.3,
+      "total_cites": 29175,
+      "mean_cites": 33.8,
+      "median_cites": 16.0,
+      "journals": 174,
+      "countries": 81
+    },
+    "NTD only": {
+      "n": 303,
+      "pct": 24.9,
+      "total_cites": 5782,
+      "mean_cites": 19.6,
+      "median_cites": 10.0,
+      "journals": 125,
+      "countries": 53
+    }
+  },
+  "per_disease": [
+    {
+      "Disease": "Dengue",
+      "N": 147,
+      "Pct": 12.1,
+      "TotalCites": 3406,
+      "MeanCites": 23.5,
+      "Countries": 43,
+      "N_2000_2012": 15,
+      "N_2013_2026": 132,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Chikungunya",
+      "N": 29,
+      "Pct": 2.4,
+      "TotalCites": 554,
+      "MeanCites": 19.1,
+      "Countries": 30,
+      "N_2000_2012": 0,
+      "N_2013_2026": 29,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Filariasis",
+      "N": 28,
+      "Pct": 2.3,
+      "TotalCites": 395,
+      "MeanCites": 14.1,
+      "Countries": 15,
+      "N_2000_2012": 4,
+      "N_2013_2026": 24,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Leprosy",
+      "N": 27,
+      "Pct": 2.2,
+      "TotalCites": 362,
+      "MeanCites": 15.1,
+      "Countries": 22,
+      "N_2000_2012": 18,
+      "N_2013_2026": 9,
+      "Trend": "Decreasing"
+    },
+    {
+      "Disease": "Cholera",
+      "N": 26,
+      "Pct": 2.1,
+      "TotalCites": 364,
+      "MeanCites": 14.6,
+      "Countries": 20,
+      "N_2000_2012": 2,
+      "N_2013_2026": 24,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Japanese encephalitis",
+      "N": 24,
+      "Pct": 2.0,
+      "TotalCites": 763,
+      "MeanCites": 33.2,
+      "Countries": 14,
+      "N_2000_2012": 3,
+      "N_2013_2026": 21,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Ascariasis",
+      "N": 19,
+      "Pct": 1.6,
+      "TotalCites": 461,
+      "MeanCites": 24.3,
+      "Countries": 12,
+      "N_2000_2012": 1,
+      "N_2013_2026": 18,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Hookworm",
+      "N": 19,
+      "Pct": 1.6,
+      "TotalCites": 479,
+      "MeanCites": 25.2,
+      "Countries": 14,
+      "N_2000_2012": 1,
+      "N_2013_2026": 18,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Trichuriasis",
+      "N": 17,
+      "Pct": 1.4,
+      "TotalCites": 386,
+      "MeanCites": 22.7,
+      "Countries": 12,
+      "N_2000_2012": 1,
+      "N_2013_2026": 16,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Melioidosis",
+      "N": 16,
+      "Pct": 1.3,
+      "TotalCites": 121,
+      "MeanCites": 8.1,
+      "Countries": 10,
+      "N_2000_2012": 2,
+      "N_2013_2026": 14,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Giardiasis",
+      "N": 13,
+      "Pct": 1.1,
+      "TotalCites": 222,
+      "MeanCites": 18.5,
+      "Countries": 11,
+      "N_2000_2012": 3,
+      "N_2013_2026": 10,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Strongyloidiasis",
+      "N": 12,
+      "Pct": 1.0,
+      "TotalCites": 129,
+      "MeanCites": 10.8,
+      "Countries": 13,
+      "N_2000_2012": 1,
+      "N_2013_2026": 11,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Amoebiasis",
+      "N": 11,
+      "Pct": 0.9,
+      "TotalCites": 115,
+      "MeanCites": 10.5,
+      "Countries": 12,
+      "N_2000_2012": 0,
+      "N_2013_2026": 11,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Rickettsioses",
+      "N": 10,
+      "Pct": 0.8,
+      "TotalCites": 356,
+      "MeanCites": 35.6,
+      "Countries": 9,
+      "N_2000_2012": 3,
+      "N_2013_2026": 7,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Leptospirosis",
+      "N": 9,
+      "Pct": 0.7,
+      "TotalCites": 268,
+      "MeanCites": 29.8,
+      "Countries": 12,
+      "N_2000_2012": 4,
+      "N_2013_2026": 5,
+      "Trend": "Stable"
+    },
+    {
+      "Disease": "Leishmaniasis",
+      "N": 6,
+      "Pct": 0.5,
+      "TotalCites": 116,
+      "MeanCites": 19.3,
+      "Countries": 6,
+      "N_2000_2012": 2,
+      "N_2013_2026": 4,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Salmonellosis",
+      "N": 5,
+      "Pct": 0.4,
+      "TotalCites": 44,
+      "MeanCites": 8.8,
+      "Countries": 8,
+      "N_2000_2012": 0,
+      "N_2013_2026": 5,
+      "Trend": "Increasing"
+    },
+    {
+      "Disease": "Shigellosis",
+      "N": 3,
+      "Pct": 0.2,
+      "TotalCites": 20,
+      "MeanCites": 6.7,
+      "Countries": 8,
+      "N_2000_2012": 0,
+      "N_2013_2026": 3,
+      "Trend": "n/a (n<5)"
+    }
+  ],
+  "temporal": [
+    {
+      "Period": "2000-2009",
+      "Total": 139,
+      "Malaria_only": 102,
+      "NTD_only": 32,
+      "Both": 5,
+      "Unclassified": 0,
+      "Pct_NTD_only": 23.0
+    },
+    {
+      "Period": "2010-2014",
+      "Total": 188,
+      "Malaria_only": 154,
+      "NTD_only": 30,
+      "Both": 4,
+      "Unclassified": 0,
+      "Pct_NTD_only": 16.0
+    },
+    {
+      "Period": "2015-2019",
+      "Total": 407,
+      "Malaria_only": 325,
+      "NTD_only": 76,
+      "Both": 5,
+      "Unclassified": 1,
+      "Pct_NTD_only": 18.7
+    },
+    {
+      "Period": "2020-2026",
+      "Total": 481,
+      "Malaria_only": 298,
+      "NTD_only": 165,
+      "Both": 17,
+      "Unclassified": 1,
+      "Pct_NTD_only": 34.3
+    }
+  ]
+}

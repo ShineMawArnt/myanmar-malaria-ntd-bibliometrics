@@ -1,0 +1,19 @@
+Disease,N,Pct,TotalCites,MeanCites,Countries,N_2000_2012,N_2013_2026,Trend
+Dengue,147,12.1,3406,23.5,43,15,132,Increasing
+Chikungunya,29,2.4,554,19.1,30,0,29,Increasing
+Filariasis,28,2.3,395,14.1,15,4,24,Increasing
+Leprosy,27,2.2,362,15.1,22,18,9,Decreasing
+Cholera,26,2.1,364,14.6,20,2,24,Increasing
+Japanese encephalitis,24,2.0,763,33.2,14,3,21,Increasing
+Ascariasis,19,1.6,461,24.3,12,1,18,Increasing
+Hookworm,19,1.6,479,25.2,14,1,18,Increasing
+Trichuriasis,17,1.4,386,22.7,12,1,16,Increasing
+Melioidosis,16,1.3,121,8.1,10,2,14,Increasing
+Giardiasis,13,1.1,222,18.5,11,3,10,Increasing
+Strongyloidiasis,12,1.0,129,10.8,13,1,11,Increasing
+Amoebiasis,11,0.9,115,10.5,12,0,11,Increasing
+Rickettsioses,10,0.8,356,35.6,9,3,7,Increasing
+Leptospirosis,9,0.7,268,29.8,12,4,5,Stable
+Leishmaniasis,6,0.5,116,19.3,6,2,4,Increasing
+Salmonellosis,5,0.4,44,8.8,8,0,5,Increasing
+Shigellosis,3,0.2,20,6.7,8,0,3,n/a (n<5)
